@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Recent Posts"
+    url: /recent/
+  - title: "Blog"
+    url: /blog/
+  - title: "Search"
+    url: /search/
+  # - title: "Pages"
+  #   url: /page-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
+  # - title: "External Link"
+  #   url: https://google.com
